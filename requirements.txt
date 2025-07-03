@@ -1,0 +1,6 @@
+stable-baselines3[extra]
+gymnasium
+gradio
+pandas
+matplotlib
+scikit-learn
